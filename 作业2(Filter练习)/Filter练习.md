@@ -34,13 +34,13 @@
 
 ##### 一、创建maven工程
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\2.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/2.png)
 
 
 
 ##### 二、创建如图所示的目录
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\3.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/3.png)
 
 
 
@@ -423,18 +423,18 @@ public class LoginServlet extends HttpServlet {
 
 1.登录页面：
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\4.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/4.png)
 
 2.输入用户：cjp，密码：wyl
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\5.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/5.png)
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\6.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/6.png)
 
 3.注册页面
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\7.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/7.png)
 
 4.公开页面
 
-![](D:\作业\JavaWeb\作业2(Filter练习)\images\8.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A2(Filter%E7%BB%83%E4%B9%A0)/images/8.png)
