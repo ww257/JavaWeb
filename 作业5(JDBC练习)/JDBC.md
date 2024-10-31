@@ -131,9 +131,9 @@ public class JdbcCreate {
 }
 ```
 
-![]([D:\作业\JavaWeb\作业5(JDBC练习)\images\4.png](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/1.png))
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/4.png)
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\5.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/5.png)
 
 
 
@@ -192,7 +192,7 @@ public class JdbcRead {
 
 ```
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\6.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/6.png)
 
 ##### 2.可滚动的结果集
 
@@ -278,7 +278,7 @@ public class JdbcScrollableResultSet {
 }
 ```
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\7.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/7.png)
 
 #### 
 
@@ -331,9 +331,9 @@ public class JdbcUpdate {
 
 ```
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\8.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/8.png)
 
-![image-20241031224153539](C:\Users\Nathan995\AppData\Roaming\Typora\typora-user-images\image-20241031224153539.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/9.png)
 
 
 
@@ -380,6 +380,6 @@ public class JdbcDelete {
 }
 ```
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\10.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/10.png)
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\11.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/11.png)
