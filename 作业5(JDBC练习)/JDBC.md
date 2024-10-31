@@ -37,19 +37,19 @@ CREATE TABLE `teacher` (
 );
 ```
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\1.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/1.png)
 
 
 
 #### 二、创建maven工程
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\2.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/2.png)
 
 
 
 #### 三、创建如图所示目录
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\3.png)
+![](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/3.png)
 
 
 
@@ -131,7 +131,7 @@ public class JdbcCreate {
 }
 ```
 
-![](D:\作业\JavaWeb\作业5(JDBC练习)\images\4.png)
+![]([D:\作业\JavaWeb\作业5(JDBC练习)\images\4.png](https://github.com/ww257/JavaWeb/blob/main/%E4%BD%9C%E4%B8%9A5(JDBC%E7%BB%83%E4%B9%A0)/images/1.png))
 
 ![](D:\作业\JavaWeb\作业5(JDBC练习)\images\5.png)
 
